@@ -8,7 +8,7 @@
 ## Installation
  install from source
 ```
-git https://github.com/JiaminRen/CVdevKit.git
+git clone https://github.com/JiaminRen/CVdevKit.git
 cd CVdevKit
 pip install .
 ```
